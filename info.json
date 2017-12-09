@@ -1,5 +1,9 @@
 {
   "version": 1,
-  "urls": [],
-  "filenames": ["main.js", "index.js"]
+  "urls": [
+    "https://github.com/iamso1/patchs-server/raw/master/info.json",
+    "https://github.com/iamso1/patchs-server/raw/master/patchs/index.js",
+    "https://github.com/iamso1/patchs-server/raw/master/patchs/main.js"
+  ],
+  "filenames": ["info.json", "main.js", "index.js"]
 }
